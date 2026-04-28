@@ -1,0 +1,23 @@
+# --- SEGURANÇA ---
+# Nunca suba suas chaves de API da OpenAI
+.env
+
+# --- BANCO DE DADOS VETORIAL (INFRA) ---
+# O text_index contém os binários do ChromaDB. 
+# Em produção, isso é infraestrutura e não código.
+text_index/
+
+# --- JUPYTER NOTEBOOKS ---
+# Arquivos temporários e de autosave do Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- AMBIENTE PYTHON ---
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- SISTEMA OPERACIONAL ---
+.DS_Store
+Thumbs.db
