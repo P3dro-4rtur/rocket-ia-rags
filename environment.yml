@@ -14,3 +14,8 @@ dependencies:
       - langchain-community
       - langchain-text-splitters
       - pypdf
+      - tree-sitter
+      - tree-sitter-languages
+      - langchain-core
+      - python-dotenv
+      - GitPython

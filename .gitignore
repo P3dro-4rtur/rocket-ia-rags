@@ -21,3 +21,9 @@ __pycache__/
 # --- SISTEMA OPERACIONAL ---
 .DS_Store
 Thumbs.db
+
+# -- REPOSITÓRIO EXTERNO USADO PARA TESTE --
+repo_review/
+
+# --- PLANOS E DOCUMENTOS LOCAIS ---
+plans/
