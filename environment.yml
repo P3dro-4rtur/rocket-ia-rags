@@ -19,3 +19,4 @@ dependencies:
       - langchain-core
       - python-dotenv
       - GitPython
+      - pandas

@@ -6,6 +6,7 @@
 # O text_index contém os binários do ChromaDB. 
 # Em produção, isso é infraestrutura e não código.
 text_index/
+childVectorDB/
 
 # --- JUPYTER NOTEBOOKS ---
 # Arquivos temporários e de autosave do Jupyter
