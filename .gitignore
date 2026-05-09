@@ -7,6 +7,7 @@
 # Em produção, isso é infraestrutura e não código.
 text_index/
 childVectorDB/
+naiveDB/
 
 # --- JUPYTER NOTEBOOKS ---
 # Arquivos temporários e de autosave do Jupyter
